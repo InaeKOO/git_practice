@@ -1,2 +1,6 @@
 pull test
+<<<<<<< HEAD
 remote -controll
+=======
+222
+>>>>>>> origin/master
