@@ -8,3 +8,5 @@ My student number is 2021-13071.
 =======
 Goodbye!
 >>>>>>> name
+
+How about reset?
