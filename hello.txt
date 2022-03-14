@@ -1,2 +1,6 @@
 Hello world!
+<<<<<<< HEAD
 My name is Inae.
+=======
+My student number is 2021-13071.
+>>>>>>> num
